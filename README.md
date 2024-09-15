@@ -31,7 +31,9 @@ A site for users to review and rate movies.
 
 ## Contribution Activity
 
-!(https://github-readme-streak-stats.herokuapp.com/?user=sahyogeshwaran)
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
 
 ## Achievements
 
