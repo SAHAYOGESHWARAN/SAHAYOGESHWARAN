@@ -23,7 +23,7 @@ A site for users to review and rate movies.
 ## Contact Me
 
 - 📧 (Email: sahayogeshwaranit@gmail.com)
-- 🌐 (https://www.linkedin.com/in/saha-yogeshwaran/)
+- 🌐 ([https://www.linkedin.com/in/saha-yogeshwaran/](https://www.linkedin.com/in/saha-yogeshwaran-7a678a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ## GitHub Stats
 
