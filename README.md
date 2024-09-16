@@ -8,8 +8,8 @@ I enjoy tackling challenging projects and learning new things.
 
 ## Skills & Technologies
 
-- 🛠️ **Languages**: JavaScript, HTML, CSS
-- 💻 **Frameworks**: Node.js, Express.js, React
+- 🛠️ **Languages**: JavaScript, HTML, CSS 
+- 💻 **Frameworks**: Node.js, Express.js, React 
 - 🌐 **Technologies**: MongoDB, mysql
 
 ## Projects
@@ -17,17 +17,20 @@ I enjoy tackling challenging projects and learning new things.
 ### [E-Commerce Website]([https://github.com/janedoe/ecommerce-website](https://github.com/SAHAYOGESHWARAN/E-commerce))
 An e-commerce website with both front-end and back-end functionalities.
 
-### [Movie Review Site]([https://github.com/janedoe/movie-review-site](https://github.com/SAHAYOGESHWARAN/movie-review-site))
-A site for users to review and rate movies.
-
 ## Contact Me
 
 - 📧 (Email: sahayogeshwaranit@gmail.com)
 - 🌐 (linked in :[https://www.linkedin.com/in/saha-yogeshwaran/](https://www.linkedin.com/in/saha-yogeshwaran-7a678a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
-## GitHub Stats
+## Status
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahayogeshwaran&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahayogeshwaran&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments"/>
+</div>
 
-(https://github.com/SAHAYOGESHWARAN?tab=status)
 
 ## Contribution Activity
 
