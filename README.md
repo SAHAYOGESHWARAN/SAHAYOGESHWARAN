@@ -9,7 +9,7 @@ I enjoy tackling challenging projects and learning new things.
 ## Skills & Technologies
 
 - 🛠️ **Languages**: JavaScript, HTML, CSS 
-- 💻 **Frameworks**: Node.js, Express.js, React 
+- 💻 **Frameworks**: Node.js, Express.js, React, Angular
 - 🌐 **Technologies**: MongoDB, mysql
 
 ## Projects
