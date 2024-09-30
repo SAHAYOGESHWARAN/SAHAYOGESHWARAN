@@ -11,6 +11,16 @@ I enjoy tackling challenging projects and learning new things.
 - 🛠️ **Languages**: JavaScript, HTML, CSS 
 - 💻 **Frameworks**: Node.js, Express.js, React, Angular
 - 🌐 **Technologies**: MongoDB, mysql
+- 
+- ## 🛠️ Technologies I Work With
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</p>
+
 
 ## Projects
 
@@ -32,6 +42,13 @@ An e-commerce website with both front-end and back-end functionalities.
 </div>
 
 
+
+## Watch the Snake Eating My Contributions 🐍
+![GitHub Snake Animation](https://github.com/sahayogeshwaran/sahayogeshwaran/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+![Contribution Snake](https://github.com/sahayogeshwaran/sahayogeshwaran/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Contribution Activity
 
 <div align=center>
@@ -42,7 +59,23 @@ An e-commerce website with both front-end and back-end functionalities.
 
 - 🎓 Completed Backend-Developer Certification on Udemy
 - 🎓 completed Node.js API Masterclass with Express & Mongodb  Certification on Udemy
-  
+
+  ## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahayogeshwaran&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahayogeshwaran&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahayogeshwaran&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
