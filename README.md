@@ -41,12 +41,6 @@ An e-commerce website with both front-end and back-end functionalities.
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
-
-## Watch the Snake Eating My Contributions 🐍
-![GitHub Snake Animation](https://github.com/sahayogeshwaran/sahayogeshwaran/blob/output/snake.svg)
-
-
-
 ## Contribution Activity
 
 <div align=center>
