@@ -8,24 +8,35 @@ I enjoy tackling challenging projects and learning new things.
 
 ## Skills & Technologies
 
-- 🛠️ **Languages**: JavaScript, HTML, CSS 
+- 🛠️ **Languages**: JavaScript, HTML, CSSn Java
 - 💻 **Frameworks**: Node.js, Express.js, React, Angular
-- 🌐 **Technologies**: MongoDB, mysql
-- 
-- ## 🛠️ Technologies I Work With
+- 🌐 **Technologies**: MongoDB, MySQL
+- 📈 **Tools**: Git, GitHub, GitLab
+- 📊 **Databases**: MongoDB, MySQL
+- 📈 **Cloud Platforms**: AWS, Google Cloud
+
+## 🛠️ Technologies I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  
 </p>
 
 
 ## Projects
 
-### [E-Commerce Website]([https://github.com/janedoe/ecommerce-website](https://github.com/SAHAYOGESHWARAN/E-commerce))
+### [E-Commerce Website](https://github.com/SAHAYOGESHWARAN/E-commerce)
 An e-commerce website with both front-end and back-end functionalities.
+
+### [To-Do List App](https://github.com/SAHAYOGESHWARAN/To-Do-List-App)
+A to-do list app with user authentication and authorization.
+
+### [Weather App](https://github.com/SAHAYOGESHWARAN/Weather-App)
+A weather app that displays the current weather and forecast.
 
 ## Contact Me
 
