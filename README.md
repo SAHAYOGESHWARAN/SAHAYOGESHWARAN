@@ -60,21 +60,7 @@ An e-commerce website with both front-end and back-end functionalities.
 - 🎓 Completed Backend-Developer Certification on Udemy
 - 🎓 completed Node.js API Masterclass with Express & Mongodb  Certification on Udemy
 
-  ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahayogeshwaran&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahayogeshwaran&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahayogeshwaran&theme=highcontrast" alt="GitHub Streak" />
-</p>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
