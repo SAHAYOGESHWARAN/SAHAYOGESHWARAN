@@ -42,11 +42,9 @@ An e-commerce website with both front-end and back-end functionalities.
 </div>
 
 
-
 ## Watch the Snake Eating My Contributions 🐍
-![GitHub Snake Animation](https://github.com/sahayogeshwaran/sahayogeshwaran/blob/output/github-contribution-grid-snake.svg)
-## 🐍 Contribution Snake
-![Contribution Snake](https://github.com/sahayogeshwaran/sahayogeshwaran/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/sahayogeshwaran/sahayogeshwaran/blob/output/snake.svg)
+
 
 
 ## Contribution Activity
