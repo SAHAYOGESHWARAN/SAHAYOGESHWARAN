@@ -13,7 +13,7 @@ I enjoy tackling challenging projects and learning new things.
 - 🌐 **Technologies**: MongoDB, MySQL
 - 📈 **Tools**: Git, GitHub, GitLab
 - 📊 **Databases**: MongoDB, MySQL
-- 📈 **Cloud Platforms**: AWS, Google Cloud
+- 📈 **Cloud Platforms**: AWS, Google Cloud.
 
 ## 🛠️ Technologies I Work With
 
