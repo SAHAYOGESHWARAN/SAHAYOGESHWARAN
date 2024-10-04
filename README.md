@@ -6,19 +6,6 @@ I'm a Backend-Developer with a passion for creating web applications and explori
 With experience in Node.js, MongoDB, and various front-end frameworks,
 I enjoy tackling challenging projects and learning new things.
 
-## Achievements
-
-<div align="center">
-  <!-- Starstruck x4 -->
-  <img src="https://img.shields.io/badge/achievement-Starstruckx4-yellow?style=for-the-badge&logo=github" alt="Starstruckx4"/>
-
-  <!-- Arctic Code Vault Contributor -->
-  <img src="https://img.shields.io/badge/achievement-Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github" alt="Arctic Code Vault Contributor"/>
-
-  <!-- Pull Shark -->
-  <img src="https://img.shields.io/badge/achievement-Pull%20Shark-green?style=for-the-badge&logo=github" alt="Pull Shark"/>
-</div>
-
 ## Skills & Technologies
 
 - 🛠️ **Languages**: JavaScript, HTML, CSSn Java
