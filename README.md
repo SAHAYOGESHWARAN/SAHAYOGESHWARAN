@@ -6,22 +6,6 @@ I'm a Backend-Developer with a passion for creating web applications and explori
 With experience in Node.js, MongoDB, and various front-end frameworks,
 I enjoy tackling challenging projects and learning new things.
 
-
-
-
-## Badges
-
-![MIT](https://img.shields.io/github/license/SAHAYOGESHWARAN/SAHAYOGESHWARAN.svg)  
-![v1.0.0](https://img.shields.io/github/v/release/SAHAYOGESHWARAN/SAHAYOGESHWARAN.svg)  
-![Repo Size](https://img.shields.io/github/repo-size/SAHAYOGESHWARAN/SAHAYOGESHWARAN)  
-![Code Quality](https://img.shields.io/codacy/grade/SAHAYOGESHWARAN/SAHAYOGESHWARAN?logo=codacy)  
-![Last Commit](https://img.shields.io/github/last-commit/SAHAYOGESHWARAN/SAHAYOGESHWARAN)  
-![Open Issues](https://img.shields.io/github/issues/SAHAYOGESHWARAN/SAHAYOGESHWARAN)  
-![Forks](https://img.shields.io/github/forks/SAHAYOGESHWARAN/SAHAYOGESHWARAN?style=social)  
-![Stars](https://img.shields.io/github/stars/SAHAYOGESHWARAN/SAHAYOGESHWARAN?style=social)  
-
-
-
 ## Skills & Technologies
 
 - 🛠️ **Languages**: JavaScript, HTML, CSSn Java
