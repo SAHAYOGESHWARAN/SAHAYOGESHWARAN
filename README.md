@@ -86,9 +86,13 @@ A weather app that displays the current weather and forecast.
 ![First 100 Commits](https://img.shields.io/badge/achievement-100%20Commits-green?style=for-the-badge)
 ![Open Source Contributor](https://img.shields.io/badge/achievement-Open%20Source%20Contributor-blue?style=for-the-badge)
 ![Hacktoberfest](https://img.shields.io/badge/achievement-Hacktoberfest%20Contributor-orange?style=for-the-badge)
+![Starstruckx4](https://img.shields.io/badge/Achievement-Starstruckx4-yellow?style=for-the-badge&logo=github)
+![Arctic Code Vault Contributor](https://img.shields.io/badge/Achievement-Arctic%20Code%20Vault%20Contributor-blue?style=for-the-badge&logo=github)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-green?style=for-the-badge&logo=github)
 
 ![Top Repo](https://custom-icon-badges.demolab.com/github/stars/SAHAYOGESHWARAN/SAHAYOGESHWARAN?logo=star)
 ![GitHub followers](https://img.shields.io/github/followers/SAHAYOGESHWARAN?label=Followers&style=social)
+
 ## Thank You!
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
