@@ -77,6 +77,18 @@ A weather app that displays the current weather and forecast.
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+## Achievements
+
+![Contributions](https://custom-icon-badges.demolab.com/badge/dynamic/json?color=green&label=Total%20Contributions&query=%24.contributions&url=https://api.github.com/users/SAHAYOGESHWARAN&logo=git)
+![Issues](https://custom-icon-badges.demolab.com/github/issues-raw/SAHAYOGESHWARAN/SAHAYOGESHWARAN?logo=issue-tracker)
+![PRs Merged](https://custom-icon-badges.demolab.com/github/issues-pr-closed/SAHAYOGESHWARAN/SAHAYOGESHWARAN?logo=pull-request)
+
+![First 100 Commits](https://img.shields.io/badge/achievement-100%20Commits-green?style=for-the-badge)
+![Open Source Contributor](https://img.shields.io/badge/achievement-Open%20Source%20Contributor-blue?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/achievement-Hacktoberfest%20Contributor-orange?style=for-the-badge)
+
+![Top Repo](https://custom-icon-badges.demolab.com/github/stars/SAHAYOGESHWARAN/SAHAYOGESHWARAN?logo=star)
+![GitHub followers](https://img.shields.io/github/followers/SAHAYOGESHWARAN?label=Followers&style=social)
 ## Thank You!
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
