@@ -52,11 +52,20 @@ A weather app that displays the current weather and forecast.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
+<!-- GitHub Contribution Activity Section with AI-inspired Design -->
 ## Contribution Activity
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>    
+<div align="center" style="background-color: #f5f7fa; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 900px; margin: auto;">
+  <h2 style="color: #0b3954; font-family: 'Arial', sans-serif; font-weight: bold;">🏆 GitHub Achievements 🏆</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&no-bg=true&no-frame=true&row=2&column=3" 
+         alt="GitHub Trophies" style="border-radius: 10px; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;"/>
+  </div>
 
+  <p style="color: #4f4f4f; font-family: 'Verdana', sans-serif; margin-top: 20px; font-size: 16px;">
+    These trophies represent my GitHub contributions, highlighting my most impactful achievements as a developer.
+  </p>
+</div>
 
 ## Achievements
 
