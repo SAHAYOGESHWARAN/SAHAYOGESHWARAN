@@ -45,18 +45,18 @@ A weather app that displays the current weather and forecast.
 
 ## Status
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahayogeshwaran&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahayogeshwaran&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahayogeshwaran&theme=transparent" height="180em" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahayogeshwaran&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
 ## Contribution Activity
-
-<div align=center>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
+</div>    
+
 
 ## Achievements
 
