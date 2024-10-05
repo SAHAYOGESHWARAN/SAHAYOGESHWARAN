@@ -43,16 +43,26 @@ A weather app that displays the current weather and forecast.
 - 📧 (Email: sahayogeshwaranit@gmail.com)
 - 🌐 (linked in :[https://www.linkedin.com/in/saha-yogeshwaran/](https://www.linkedin.com/in/saha-yogeshwaran-7a678a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
+
+
+
 ## Status
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahayogeshwaran&theme=transparent" height="180em" alt="Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Commits Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Repo Languages"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahayogeshwaran&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments"/>
+<div align="center" style="background-color: #f0f4f8; padding: 30px; border-radius: 15px; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15); max-width: 1000px; margin: auto;">
+  <h2 style="color: #0a1931; font-family: 'Roboto', sans-serif; font-weight: bold;">📊 GitHub Overview 📊</h2>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahayogeshwaran&theme=transparent" height="180em" alt="Stats" class="card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Commits Languages" class="card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahayogeshwaran&theme=transparent&exclude=html,CSS,nodejs%20Notebook" height="180em" alt="Most Repo Languages" class="card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahayogeshwaran&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph" class="card"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments" class="card"/>
+  </div>
 </div>
 
-<!-- GitHub Contribution Activity Section with AI-inspired Design -->
+
+
+
+
 ## Contribution Activity
 <div align="center" style="background-color: #f5f7fa; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 900px; margin: auto;">
   <h2 style="color: #0b3954; font-family: 'Arial', sans-serif; font-weight: bold;">🏆 GitHub Achievements 🏆</h2>
@@ -61,10 +71,6 @@ A weather app that displays the current weather and forecast.
     <img src="https://github-profile-trophy.vercel.app/?username=sahayogeshwaran&no-bg=true&no-frame=true&row=2&column=3" 
          alt="GitHub Trophies" style="border-radius: 10px; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;"/>
   </div>
-
-  <p style="color: #4f4f4f; font-family: 'Verdana', sans-serif; margin-top: 20px; font-size: 16px;">
-    These trophies represent my GitHub contributions, highlighting my most impactful achievements as a developer.
-  </p>
 </div>
 
 ## Achievements
