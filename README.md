@@ -60,9 +60,6 @@ A weather app that displays the current weather and forecast.
 </div>
 
 
-
-
-
 ## Contribution Activity
 <div align="center" style="background-color: #f5f7fa; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 900px; margin: auto;">
   <h2 style="color: #0b3954; font-family: 'Arial', sans-serif; font-weight: bold;">🏆 GitHub Achievements 🏆</h2>
