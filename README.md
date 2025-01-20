@@ -2,18 +2,17 @@
 
 ## 👨‍💻 backend-Developer | 📚 Lifelong Learner
 
-I'm a Backend-Developer with a passion for creating web applications and exploring new technologies.
-With experience in Node.js, MongoDB, and various front-end frameworks,
-I enjoy tackling challenging projects and learning new things.
+I'm a dynamic Backend Developer with expertise in Node.js, MongoDB, PostgreSQL, and Docker, specializing in scalable web applications and seamless API integrations.
+Passionate about solving complex problems, I continuously explore cutting-edge technologies to build impactful, future-ready solutions.
 
 ## Skills & Technologies
 
-- 🛠️ **Languages**: JavaScript, HTML, CSSn Java
-- 💻 **Frameworks**: Node.js, Express.js, React, Angular
-- 🌐 **Technologies**: MongoDB, MySQL
-- 📈 **Tools**: Git, GitHub, GitLab
-- 📊 **Databases**: MongoDB, MySQL
-- 📈 **Cloud Platforms**: AWS, Google Cloud.
+-🛠️ Languages: JavaScript, HTML, CSS, Java
+-💻 Frameworks: Node.js, Express.js, React, Angular
+-🌐 Technologies: MongoDB, MySQL, PostgreSQL, Docker
+-📈 Tools: Git, GitHub, GitLab
+-📊 Databases: MongoDB, MySQL, PostgreSQL
+-📈 Cloud Platforms: AWS, Google Cloud
 
 ## 🛠️ Technologies I Work With
 
