@@ -8,12 +8,23 @@ Passionate about solving complex problems, I continuously explore cutting-edge t
 ## Skills & Technologies
 
 
--🛠️ Languages: JavaScript, HTML, CSS, Java
--💻 Frameworks: Node.js, Express.js, React, Angular
--🌐 Technologies: MongoDB, MySQL, PostgreSQL, Docker
--📈 Tools: Git, GitHub, GitLab
--📊 Databases: MongoDB, MySQL, PostgreSQL
--📈 Cloud Platforms: AWS, Google Cloud
+🛠️ Languages
+JavaScript · HTML · CSS · Java
+
+💻 Frameworks
+Node.js · Express.js · React · Angular
+
+🌐 Technologies
+MongoDB · MySQL · PostgreSQL · Docker
+
+📈 Tools
+Git · GitHub · GitLab
+
+📊 Databases
+MongoDB · MySQL · PostgreSQL
+
+☁️ Cloud Platforms
+AWS · Google Cloud
 
 ## 🛠️ Technologies I Work With
 
