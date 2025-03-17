@@ -118,4 +118,4 @@ A weather app that displays the current weather and forecast.
 
 ## Thank You!
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!.
