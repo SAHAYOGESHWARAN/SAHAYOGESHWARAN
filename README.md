@@ -1,15 +1,17 @@
-Hey there, I'm Saha Yogeshwaran! 🚀
-💡 Backend Developer | Problem Solver | Tech Enthusiast
-I’m a passionate Backend Developer with a knack for designing scalable architectures, high-performance APIs, and cloud-based solutions. My expertise lies in Node.js, PostgreSQL, MongoDB, and Docker, crafting seamless backend systems that power dynamic web applications.
+# Hi there, I'm sahayogeshwaran 👋
 
-I thrive in fast-paced environments, constantly exploring cutting-edge technologies to optimize performance, enhance security, and drive digital transformation.
+## 👨‍💻 backend-Developer | 📚 Lifelong Learner
 
-🛠️ Tech Stack & Expertise
+I'm a dynamic Backend Developer with expertise in Node.js, MongoDB, PostgreSQL, and Docker, specializing in scalable web applications and seamless API integrations.
+Passionate about solving complex problems, I continuously explore cutting-edge technologies to build impactful, future-ready solutions.
+
+## Skills & Technologies
+
 💻 Programming & Scripting
-🚀 JavaScript (ES6+) · TypeScript · Java · 
+🚀 JavaScript (ES6+) · TypeScript · Java · Python
 
 📦 Backend Frameworks
-⚡ Node.js · Express.js · React.js
+⚡ Node.js · Express.js · NestJS
 
 📊 Databases & Storage
 📌 PostgreSQL · MongoDB · MySQL · Redis
@@ -26,14 +28,7 @@ I thrive in fast-paced environments, constantly exploring cutting-edge technolog
 🎨 Frontend (Basic Proficiency)
 🌟 React.js · Angular
 
-🚀 What I Do Best
-✅ Architect and optimize scalable, high-availability backend systems
-✅ Build robust APIs with secure authentication (OAuth, JWT)
-✅ Implement real-time features with WebSockets & event-driven architecture
-✅ Optimize databases for high performance and reliability
-✅ Deploy and manage cloud-based applications with Docker & Kubernetes
 
-🔗 LinkedIn: www.linkedin.com/in/saha-yogeshwaran-7a678a292
 
 ## 🛠️ Technologies I Work With
 
@@ -47,34 +42,16 @@ I thrive in fast-paced environments, constantly exploring cutting-edge technolog
 </p>
 
 
-🚀 Projects
-Ride-Hailing REST API
-A fully functional ride-hailing backend service built with Node.js, Express, and PostgreSQL. Features include:
-✔️ User authentication & authorization (JWT)
-✔️ Trip management (request, accept, complete)
-✔️ Driver status updates (online/offline)
-✔️ Fare calculation & ride history
+## Projects
 
-AI-Powered Chatbot
-An AI-driven chatbot with natural language processing (NLP) using Node.js and OpenAI API. Features include:
-✔️ Conversational AI with contextual awareness
-✔️ Voice and text-based interactions
-✔️ Personalized user responses
-✔️ Integrated with a web UI for real-time chat
+### [E-Commerce Website](https://github.com/SAHAYOGESHWARAN/E-commerce)
+An e-commerce website with both front-end and back-end functionalities.
 
-Real-Time Collaborative Editor
-A Google Docs-like real-time text editor built using MERN stack & WebSockets. Features include:
-✔️ Multi-user real-time editing
-✔️ Document version history
-✔️ User authentication and access control
-✔️ WebSockets for instant updates
+### [To-Do List App](https://github.com/SAHAYOGESHWARAN/To-Do-List-App)
+A to-do list app with user authentication and authorization.
 
-Advanced AI Assistant
-A JARVIS-like AI assistant using React, Node.js, and WebSockets with advanced functionalities:
-✔️ Voice-controlled system interactions
-✔️ Real-time weather & news updates
-✔️ Home automation integrations
-✔️ Dynamic greeting & conversational abilities
+### [Weather App](https://github.com/SAHAYOGESHWARAN/Weather-App)
+A weather app that displays the current weather and forecast.
 
 ## Contact Me
 
@@ -96,6 +73,13 @@ A JARVIS-like AI assistant using React, Node.js, and WebSockets with advanced fu
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahayogeshwaran&theme=transparent" height="180em" alt="Commitments" class="card"/>
   </div>
 </div>
+
+🚀 What I Do Best
+✅ Architect and optimize scalable, high-availability backend systems
+✅ Build robust APIs with secure authentication (OAuth, JWT)
+✅ Implement real-time features with WebSockets & event-driven architecture
+✅ Optimize databases for high performance and reliability
+✅ Deploy and manage cloud-based applications with Docker & Kubernetes
 
 
 ## Contribution Activity
