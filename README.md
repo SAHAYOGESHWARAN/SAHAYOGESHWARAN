@@ -8,16 +8,16 @@ Passionate about solving complex problems, I continuously explore cutting-edge t
 ## Skills & Technologies
 
 💻 Programming & Scripting
-🚀 JavaScript (ES6+) · TypeScript · Java · Python
+🚀 JavaScript (ES6+) · Java · 
 
 📦 Backend Frameworks
-⚡ Node.js · Express.js · NestJS
+⚡ Node.js · Express.js · 
 
 📊 Databases & Storage
 📌 PostgreSQL · MongoDB · MySQL · Redis
 
 ☁️ Cloud & DevOps
-🔹 Docker · Kubernetes · AWS (EC2, S3, Lambda) · Google Cloud
+🔹 Docker · Kubernetes · AWS (EC2, S3, Lambda) · Google Cloud,vercel
 
 🔗 API & Integrations
 🛠️ RESTful APIs · GraphQL · WebSockets · Microservices
