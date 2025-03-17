@@ -74,13 +74,6 @@ A weather app that displays the current weather and forecast.
   </div>
 </div>
 
-🚀 What I Do Best
-✅ Architect and optimize scalable, high-availability backend systems
-✅ Build robust APIs with secure authentication (OAuth, JWT)
-✅ Implement real-time features with WebSockets & event-driven architecture
-✅ Optimize databases for high performance and reliability
-✅ Deploy and manage cloud-based applications with Docker & Kubernetes
-
 
 ## Contribution Activity
 <div align="center" style="background-color: #f5f7fa; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 900px; margin: auto;">
