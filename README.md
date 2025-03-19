@@ -17,13 +17,13 @@ Passionate about solving complex problems, I continuously explore cutting-edge t
 📌 PostgreSQL · MongoDB · MySQL · Redis
 
 ☁️ Cloud & DevOps
-🔹 Docker · Kubernetes · AWS (EC2, S3, Lambda) · Google Cloud,vercel
+🔹 Docker  · AWS (EC2, S3, Lambda) · Google Cloud,vercel, heroku
 
 🔗 API & Integrations
 🛠️ RESTful APIs · GraphQL · WebSockets · Microservices
 
 📈 Version Control & CI/CD
-🔄 Git · GitHub · GitLab · Azure DevOps · Jenkins
+🔄 Git · GitHub · GitLab · 
 
 🎨 Frontend (Basic Proficiency)
 🌟 React.js · Angular
